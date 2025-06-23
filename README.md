@@ -111,7 +111,7 @@ Developed by [Your Name](https://github.com/your-username)
 
 ```
 
----
+--
 
 Let me know if you want:
 - A sample `requirements.txt` 
