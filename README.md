@@ -119,5 +119,5 @@ Let me know if you want:
 - A GitHub-ready repo zip
 - Auto-save of results (bounding boxes or CSV logs)
 
-I can generate any of that instantly.
+
 ```
