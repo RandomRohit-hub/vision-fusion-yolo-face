@@ -108,15 +108,4 @@ This is a **beta version**. Bugs, performance issues, or limitations may exist. 
 
 ---
 
-## 📜 License
-
-MIT License
-
----
-
-## 🙋‍♂️ Author
-
-Developed by [Your Name](https://github.com/your-username)
-
-```
 
