@@ -29,11 +29,17 @@ This project combines **YOLOv8 object detection** and **real-time face recogniti
 project-root/
 │
 ├── main.py                 # Main script for detection
+
 ├── simple\_facerec.py       # Face recognition helper class
+
 ├── yolov8n.pt              # YOLOv8 model file (object or face detection)
+
 ├── images/                 # Folder containing known face images (used for recognition)
+
 │   ├── Elon Musk.jpg
+
 │   └── messi.jpg
+
 └── README.md
 
 ````
