@@ -116,7 +116,7 @@ Developed by [Your Name](https://github.com/your-username)
 Let me know if you wa
 
 - A sample `requirements
-- A GitHub-
+- A 
 - Auto-save of results (bounding boxes or CSV logs)
 
 
