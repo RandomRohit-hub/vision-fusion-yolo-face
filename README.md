@@ -113,7 +113,7 @@ Developed by [Your Name](https://github.com/your-username)
 
 --
 
-Let me know if you want:
+Let me know if you wa
 
 - A sample `requirements.txt` 
 - A GitHub-ready repo zip
