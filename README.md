@@ -115,7 +115,7 @@ Developed by [Your Name](https://github.com/your-username)
 
 Let me know if you wa
 
-- A sample `requirements.txt` 
+- A sample `requirements
 - A GitHub-ready repo zip
 - Auto-save of results (bounding boxes or CSV logs)
 
