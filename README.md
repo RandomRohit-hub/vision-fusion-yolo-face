@@ -19,9 +19,12 @@ This project combines **YOLOv8 object detection** and **real-time face recogniti
 
 ---
 
-## 📁 Folder Structure
+
+
+
 
 ```
+## 📁 Folder Structure
 
 project-root/
 │
